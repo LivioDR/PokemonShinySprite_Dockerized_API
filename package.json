@@ -1,0 +1,35 @@
+{
+  "name": "finalpreparation",
+  "version": "1.0.0",
+  "description": "Test project created as a practice for Enterprise Tech final exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LivioDR/Fanshawe_Enterprise_FinalPreparationExercise.git"
+  },
+  "keywords": [
+    "Enterprise",
+    "Node",
+    "Node.js",
+    "Express",
+    "API",
+    "RESTful",
+    "Docker",
+    "Container",
+    "Firebase",
+    "Authentication"
+  ],
+  "author": "Livio Reinoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LivioDR/Fanshawe_Enterprise_FinalPreparationExercise/issues"
+  },
+  "homepage": "https://github.com/LivioDR/Fanshawe_Enterprise_FinalPreparationExercise#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase": "^10.13.0"
+  }
+}
